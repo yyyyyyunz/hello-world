@@ -1,0 +1,104 @@
+html{
+	font-family:sans-serif,serif;
+	font-size: 13px;
+}
+h1{
+	color:white;
+	height:50px;
+	text-indent:2rem;
+	width:687px;
+	padding:10px;
+	margin:0;
+	background-color:#4d4d4d;
+	position: relative;
+}
+#information{
+	height:100px;
+	overflow: hidden;
+	width:100%;
+	margin:0;
+	position: absolute;
+	top:80px;
+}
+#information h2,#tel h2,#tech h2,#power h2,#project h2{
+	float:left;
+	border:2px solid #cccccc;
+	border-right:none;
+	width:100px;
+	height:100px;
+	background-color:#808080;
+	text-align:center;
+	margin:0;
+	padding:0;
+
+}
+#information-infor,#tel-infor,#tech-infor,#power-infor,#project-infor{
+	border:2px solid #cccccc;
+	float:left;
+	width:600px;
+	height:100px;
+}
+#name{
+	text-indent:1rem;
+	width:100px;
+	margin:5px;
+	float:left;
+}
+#sex{
+	width:100px;
+	margin:5px;
+	float:left;
+}
+#job{
+	width:200px;
+	margin:5px;
+	float:left;
+}
+#tel{
+	height:100px;
+	overflow: hidden;
+	position: absolute;
+	top:180px;
+}
+#phone{
+	text-indent: 1rem;
+	width:160px;
+	margin:5px;
+	float:left;
+}
+#email{
+	width:210px;
+	margin:5px;
+	float:left;
+}
+#git{
+	width:150px;
+	margin:5px;
+	float:left;
+}
+#tech{
+	position: absolute;
+	top:280px;
+	overflow: hidden;
+	height:100px;
+}
+#power{
+	position: absolute;
+	top:380px;
+	overflow: hidden;
+	height:100px;
+}
+#project{
+	position: absolute;
+	top:480px;
+	overflow: hidden;
+	height:100px;
+}
+#xiaodu,#benke,#technology,#san,#yanjiu,#totle{
+	display: block;
+	clear:both;
+}
+#xiaodu p,#san p,#technology p,#benke p,#yanjiu p,#totle p{
+	float: left;
+	text-indent:1rem;
+}
