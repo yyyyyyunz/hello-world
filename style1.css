@@ -1,0 +1,46 @@
+html{
+	font-family:sans-serif,serif;
+	font-size:15px;
+}
+span{
+	font-weight: bold;
+}
+#information{
+	width: 100%;
+	overflow:hidden;
+}
+#name{
+	width:100px;
+	margin:5px;
+	float:left;
+}
+#sex{
+	width:100px;
+	margin:5px;
+	float:left;
+}
+#job{
+	width:200px;
+	margin:5px;
+	float:left;
+}
+
+#tel{
+	width: 100%;
+	overflow:hidden;
+}
+#phone{
+	width:160px;
+	margin:5px;
+	float:left;
+}
+#email{
+	width:210px;
+	margin:5px;
+	float:left;
+}
+#git{
+	width:150px;
+	margin:5px;
+	float:left;
+}
