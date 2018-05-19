@@ -1,0 +1,14 @@
+h1{
+	float:left;
+	height:900px;
+	width:120px;
+	text-align: center;
+	background-color:lightblue;
+	color:white;
+	line-height: 10rem;
+}
+#right{
+	float:left;
+	width:600px;
+	text-indent:15px;
+}
